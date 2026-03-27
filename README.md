@@ -14,6 +14,12 @@ The objective is to identify high-value customers, detect churn risks, and suppo
 
 ---
 
+## Dashboard Preview
+
+![Dashboard](images/dashboard.png)
+
+---
+
 ## 🛠 Tech Stack
 
 * Google BigQuery (SQL)
