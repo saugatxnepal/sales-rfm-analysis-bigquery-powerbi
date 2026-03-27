@@ -16,11 +16,11 @@ The objective is to identify high-value customers, detect churn risks, and suppo
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](sales-rfm-analysis/images/dashboard.png)
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * Google BigQuery (SQL)
 * Power BI (Data Visualization)
@@ -29,7 +29,7 @@ The objective is to identify high-value customers, detect churn risks, and suppo
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 sales-rfm-analysis/
