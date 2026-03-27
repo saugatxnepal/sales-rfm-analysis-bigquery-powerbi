@@ -44,7 +44,6 @@ sales-rfm-analysis/
 │
 ├── powerbi/
 │   ├── dashboard.pbix
-│   ├── dashboard.png
 ```
 
 ---
